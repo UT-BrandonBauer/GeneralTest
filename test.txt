@@ -7,5 +7,6 @@ This is a new line!
 This is a new line!
 This is a new line!
 This is a new line!
+This is a new line!
 Adding a new line
 This file is strictly a test!
